@@ -34,7 +34,7 @@ source venv/bin/activate
 
 Additionally, if using the CellPose segmentation method, this must be installed in the virtual environment:
 ```bash
-pip install cellpose[gui]
+pip install 'cellpose[gui]'
 ```
 
 ## Running an example pipeline
